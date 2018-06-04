@@ -4,7 +4,7 @@ Suduko Solver is java based application that can solve classical 9 * 9 suduko us
 
   - Based on SOLID principle
   - embedded Junit and logger feature
-  - extendible for any suduko type
+  - extendable for any suduko type
 
 > The idea behind this was to provide an 
 > example of SOLID principle based 
