@@ -1,0 +1,2 @@
+INFO    2018-06-05 00:44:45,877 [main] com.ex.suduko.solver.SudkoStarter  - Starting Main Method
+INFO    2018-06-05 00:44:45,882 [main] com.ex.suduko.solver.SudkoStarter  - Starting solve() Method
